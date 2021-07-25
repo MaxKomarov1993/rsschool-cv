@@ -1,0 +1,94 @@
+main{
+    width: 950px;
+    margin:0 auto;
+    background: #1c92d2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.headerSize{
+    width: 100%;
+    height: 5px;
+    background: #007991;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+   
+}
+
+.photoAndInform{
+    width: 100%;
+    display: flex;
+    background: #007991;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0;
+    padding: 0;
+    height: auto;
+
+}
+.myPhoto{
+   margin-left: 5px;
+   
+
+}
+img{
+    max-width: 350px;
+    height: auto;
+    border-radius: 3%;
+}
+.myInform{
+    padding-left: 10%;
+
+}
+.education{
+    padding: 20px;
+    border: 5px  groove;
+    border-image: linear-gradient(to right, #78ffd6, #007991);
+    -moz-border-image: -moz-linear-gradient(to right, #78ffd6, #007991);
+    -webkit-border-image: -webkit-linear-gradient(to right, #78ffd6, #007991);
+    border-image-slice: 1;
+    
+}
+.mySkills{
+    padding: 20px;
+    border: 5px  groove;
+    border-image: linear-gradient(to right, #78ffd6, #007991);
+    -moz-border-image: -moz-linear-gradient(to right, #78ffd6, #007991);
+    -webkit-border-image: -webkit-linear-gradient(to right, #78ffd6, #007991);
+    border-image-slice: 1;
+}
+.aboutMe{
+    font-style: initial;
+    font-size: 12px;
+    padding: 20px;
+    border: 5px  groove;
+    border-image: linear-gradient(to right, #78ffd6, #007991);
+    -moz-border-image: -moz-linear-gradient(to right, #78ffd6, #007991);
+    -webkit-border-image: -webkit-linear-gradient(to right, #78ffd6, #007991);
+    border-image-slice: 1;
+}
+.footerInfo{
+    padding: 20px;
+    border: 5px  groove;
+    border-image: linear-gradient(to right, #78ffd6, #007991);
+    -moz-border-image: -moz-linear-gradient(to right, #78ffd6, #007991);
+    -webkit-border-image: -webkit-linear-gradient(to right, #78ffd6, #007991);
+    border-image-slice: 1;
+    display: flex;
+    align-items: center;
+
+}
+.myGit{
+    padding-left: 100px;
+}
+.year{
+    padding-left: 200px;
+    font-weight: bold;
+}
+.iconRS{
+    padding-left: 400px;
+    width: 80px;
+    height: 50px;
+}
+
