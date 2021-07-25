@@ -1,2 +1,2 @@
-https://MaxKomarov1993.github.io/rsschool-cv/cv
+https://MaxKomarov1993.github.io/rsschool-cv/index
 
